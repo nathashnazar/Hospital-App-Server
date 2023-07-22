@@ -1,0 +1,27 @@
+[
+    {
+        "hospitalName": "ASTER MIMS HOSPITAL",
+        "hospitalLocation": "Kannur",
+        "patientCount": "800"
+    },
+    {
+        "hospitalName": "Sreechand Speciality Hospital",
+        "hospitalLocation": "Kannur",
+        "patientCount": "200"
+    },
+    {
+        "hospitalName": "Fathima Hospital kannur",
+        "hospitalLocation": "Kannur",
+        "patientCount": "500"
+    },
+    {
+        "hospitalName": "ESI HOSPITAL",
+        "hospitalLocation": "Kannur",
+        "patientCount": "400"
+    },
+    {
+        "hospitalName": "Amala Multi Speciality Hospital",
+        "hospitalLocation": "Kannur",
+        "patientCount": "1000"
+    }
+]
